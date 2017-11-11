@@ -14,8 +14,8 @@ header nav {
 }
 
 nav ul {
-  padding: 0;
-  margin: 40px, 0, 0, 0;
+  padding: 0px;
+  margin: 40px, 0px, 0px, 0px;
 }
 
 nav ul li {
@@ -34,7 +34,7 @@ header h3 {
   font-size: 30px;
 }
 
-header > h3 > a {
+header h3 a {
   text-decoration: none;
   color: #868e96;
 }
