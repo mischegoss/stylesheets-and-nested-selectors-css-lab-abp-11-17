@@ -15,7 +15,10 @@ header nav {
 
 nav ul {
   padding: 0;
-  margin: 40px, 0, 0, 0;
+  margin-top: 40px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }
 
 nav ul li {
